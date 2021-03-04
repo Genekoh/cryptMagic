@@ -21,3 +21,13 @@ for the competition. This app has been built with Vue.js, the frontend framework
 Click [**here**](https://mega.nz/file/EMsynBIL#lMZ_rZ2xUWXJ-DCkmi9A98nyJXE76qhulRytLItsMwA) and just execute the .exe file.
 
 _Note that the download currently only works on Windows. If you need it to be compiled into Mac please open an issue._
+
+If you pulled the repository you could compile the source code into a .exe file. For this you need npm (node package manager) so click [**here**]() if you don't have npm installed yet and go through the instructions.
+
+1. Open a Command Line and navigating to the root of the project and installing all the dependencies by running:
+   `npm install`
+
+2. Then compile the code by running:
+   `npm run electron:build`
+
+3. The compiled setup exe file would be located in the /dist_electron directory
