@@ -25,7 +25,7 @@ for the competition. This app has been built with Vue.js, the frontend framework
   Click [**here**](https://mega.nz/file/pctSiLZI#czJ2wlRV2m38KI--9MhRlofV9OnDPPVsbT-ubKRr4Cc) and just execute the .exe file.
 
 - #### MacOs
-  Click [**here**]() and go through the steps in the .dmg file.
+  Click [**here**](https://mega.nz/file/QVU1BYAA#8OlscBhTgR8zYelAoI7d5N9d1WqZRSPcSdxXb7CfN7U) and drag the cryptMagic file into the applications folder.
 
 ## Building the app manually
 
