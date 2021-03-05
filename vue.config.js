@@ -14,6 +14,16 @@ module.exports = {
             icon: "icon",
           },
         ],
+        win: {
+          target: "nsis-web",
+          icon: "build/icon.ico",
+        },
+        mac: {
+          category: "public.app-category.education",
+          target: "dmg",
+          icon: "build/icon.icns",
+          darkModeSupport: false,
+        },
       },
     },
   },

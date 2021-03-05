@@ -10,22 +10,31 @@
   </p>
 </p>
 
-# About the app
+## About the app
 
 ---
 
 for the competition. This app has been built with Vue.js, the frontend framework, and Electron.js, which made making it a desktop application using web technologies possible.
 
-# How to install
+## How to install
 
-Click [**here**](https://mega.nz/file/EMsynBIL#lMZ_rZ2xUWXJ-DCkmi9A98nyJXE76qhulRytLItsMwA) and just execute the .exe file.
+---
 
-_Note that the download currently only works on Windows. If you need it to be compiled into Mac please open an issue._
+- #### Windows
 
-If you pulled the repository you could compile the source code into a .exe file. For this you need npm (node package manager) so click [**here**]() if you don't have npm installed yet and go through the instructions.
+  Click [**here**](https://mega.nz/file/pctSiLZI#czJ2wlRV2m38KI--9MhRlofV9OnDPPVsbT-ubKRr4Cc) and just execute the .exe file.
+
+- #### MacOs
+  Click [**here**]() and go through the steps in the .dmg file.
+
+## Building the app manually
+
+---
+
+You need to pull the repository to compile the source code into a .exe file, you need [**npm**](https://nodejs.org/en/) or [**yarn**](https://yarnpkg.com/getting-started/install) (you need npm before installing yarn) so click if you don't have npm installed yet and go through the instructions:
 
 1. Open a Command Line and navigating to the root of the project and installing all the dependencies by running:
-   `npm install`
+   `npm install` or `yarn`
 
 2. Then compile the code by running:
    `npm run electron:build`
